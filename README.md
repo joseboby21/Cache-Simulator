@@ -10,5 +10,9 @@ Usage ./cache <combined/split> <addresslength> <cache size in Kilo bytes> <block
   
   
 <combined/split> c/s
+
+
 <addresslength>  32/64
+  
+
 <direct/4way set associative>  1/4
